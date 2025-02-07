@@ -1,3 +1,5 @@
+![image alt](https://github.com/AmitSharma-009/Internship/blob/f145b6d61491c1ff04fe87f3b8a96c8cd69528a7/KPMG_DA_Virtual_Internship/Insights/KPMG.png)
+
 # KPMG_AU_Data_Analysis_Virtual_Internship
 This repository showcases my solutions and project work for the KPMG Australia Data Analytics Virtual Internship offered by Forage. This immersive program simulates real-world data analytics tasks, providing hands-on experience and practical insights into the challenges faced by professionals at KPMG.
 
