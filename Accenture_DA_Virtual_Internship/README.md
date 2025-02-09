@@ -1,3 +1,5 @@
+![image alt](https://github.com/AmitSharma-009/Internship/blob/c9380273b8c89ae7787858e0ebe68c5fee300723/Accenture_DA_Virtual_Internship/accenture_logo.png)
+
 # Accenture North America - Data Analytics and Visualization
 
 ## Project Overview:
