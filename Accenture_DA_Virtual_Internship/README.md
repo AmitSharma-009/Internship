@@ -44,12 +44,6 @@ Participating in this virtual internship enabled me to:
 - Provided strategic recommendations to ensure a successful Initial Public Offering (IPO), focusing on data-driven decision-making and operational efficiency.
 - Analyzed content categories, highlighting the top five with the highest aggregate popularity, thereby offering insights to boost user engagement and platform growth.
 
-## Preview Image:
-![Dashboard Preview](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Dashboard%20-%20Social%20Buzz.png?raw=true)
-
-
-## --------------------------------------------------------------------------------------------------------
-
 ## Task - 1
 ### Project Understanding:
 **A data analyst sits between the business and the data.**
@@ -57,7 +51,6 @@ Participating in this virtual internship enabled me to:
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
  - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
  - Mae has scheduled a project kick-off call with the internal Accenture project team for tomorrow morning.
- - About Client : [Social Buzz](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture : 
 
@@ -79,42 +72,13 @@ In short, the client wanted to see **“An analysis of their content categories 
  >- Content type
  >- Category
  
-### Data Cleaning:
-#### Clean the data by:
- - removing rows that have values that are missing,
- - changing the data type of some values within a column, and
- - removing columns that are not relevant to this task.
- - - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
-
-**End result will be a cleaned data set:**
-
-### Data Modelling:
-
-**Create a final data set by merging 3 tables**
-**End result will be one spreadsheet**
- - A cleaned dataset
- - Top 5 categories
- 
- ### Cleaned Data set:
- So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Content%20-%20Reaction%20Type%20-%20Reaction.csv)
- 
  ## Task - 3
  ### Data Visualization and Storytelling:
  **Make the PowerPoint presentation as per the given template**
- 
- - Powerpoint Presentation : [PPT](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20Internship%20PowerPoint%20presentation%20-%20Task%203%20By%20Minhaj.pptx)
  
  ## Task - 4
  ### Present to the Client:
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
 
- ## Certificate:
-[Certificate of Completion](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_Internship_completion_certificate_Shaikh_Minhaj.pdf)
-
- ## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/minhaj313)
-
-## Tags:
-#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #Accenture #Internship
-
-
+## Acknowledgments
+I extend my gratitude to Accenture and Forage for offering this valuable virtual internship experience. The project simulated real-world scenarios that enhanced my data analytics and visualization skills, preparing me for future professional challenges.
